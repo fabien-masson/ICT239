@@ -1,2 +1,2 @@
 # Documentation
-![schema](schema.png "image")
+![schema](img/schema.png "image")
